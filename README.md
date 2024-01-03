@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasul</h1>
 <h3 align="center">Middle Flutter developer</h3>
 
-<img src = "https://github.com/therasuldev/therasuldev/assets/74558294/29d8e7c2-caeb-457f-9471-c4502eec39a9" />
+<p align="center"><img src = "https://github.com/therasuldev/therasuldev/assets/74558294/29d8e7c2-caeb-457f-9471-c4502eec39a9" /></p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=therasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="therasuldev" /> </p>
 
