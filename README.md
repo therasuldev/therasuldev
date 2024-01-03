@@ -3,17 +3,7 @@
 
 <p align="center"><img src = "https://github.com/therasuldev/therasuldev/assets/74558294/29d8e7c2-caeb-457f-9471-c4502eec39a9" /></p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=therasuldev&label=Profile%20views&color=0e75b6&style=flat" alt="therasuldev" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=therasuldev" alt="therasuldev" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/therasuldev" target="blank"><img src="https://img.shields.io/twitter/follow/therasuldev?logo=twitter&style=for-the-badge" alt="therasuldev" /></a> </p>
-
-- 🌱 I’m currently learning **Rust,Kotlin**
-
-- 👨‍💻 All of my projects are available at [https://github.com/therasuldev?tab=repositories](https://github.com/therasuldev?tab=repositories)
-
-- 📫 How to reach me **rasul.ramixanov@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
