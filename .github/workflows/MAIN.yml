@@ -5,6 +5,9 @@ name: Generate Snake
 # Controls when the action will run. This action runs every 6 hours.
 
 on:
+  pull_request:
+    types:
+      - opened
   workflow_dispatch:
 
 # The sequence of runs in this workflow:
