@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rasul</h1>
 <h3 align="center">Middle Flutter developer</h3>
 
-<p align="center"><img width = "950" height = "400" src = "https://github.com/therasuldev/therasuldev/assets/74558294/b913d3b6-56ad-45d6-9247-bf8b426f440e" /></p>
+<p align="center"><img width = "1000" height = "500" src = "https://github.com/therasuldev/therasuldev/assets/74558294/b913d3b6-56ad-45d6-9247-bf8b426f440e" /></p>
 
 
 
