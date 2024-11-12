@@ -2,7 +2,7 @@
   <desc>Generated with https://github.com/Platane/snk</desc>
   <style>
     :root { 
-      --cb: #1b1f230a;
+      --cb: green;
       --cs: #9165a7;
       --ce: #90EE90;
       --c0: #90EE90;
