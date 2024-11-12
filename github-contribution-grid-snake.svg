@@ -6,7 +6,7 @@
       --cs: #9165a7;
       --ce: #90EE90;
       --c0: #90EE90;
-      --c1: red; /* Change from green to brown */
+      --c1: transparent; /* Change from green to brown */
       --c2: red; /* Change from green to brown */
       --c3: red; /* Change from green to brown */
       --c4: red; /* Change from green to brown */
