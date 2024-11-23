@@ -55,5 +55,3 @@
 </p>
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therasuldev&show_icons=true&locale=en" alt="therasuldev" /></p>
-
-![Snake animation](https://github.com/therasuldev/therasuldev/blob/output/github-contribution-grid-snake.svg)
