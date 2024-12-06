@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasul</h1>
-<h3 align="center">Flutter PRO MAX, Rust mini, Swift mini</h3>
+<h3 align="center">Flutter PRO MAX, Rust mini</h3>
 
 <p align="left">
   <span style="font-size: 20px; font-weight: bold;"><strong>Connect with me:</strong></span>
@@ -53,5 +53,3 @@
     <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Rust_programming_language_black_logo.svg" alt="rust" width="40" height="40" style="vertical-align: middle;" />
   </a>
 </p>
-
-<p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=therasuldev&show_icons=true&locale=en" alt="therasuldev" /></p>
