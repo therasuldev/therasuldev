@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rasul</h1>
-<h3 align="center">Flutter PRO MAX, Rust mini</h3>
+<h3 align="center">Flutter PRO MAX, Rust mini, Swift mini</h3>
 
 <p align="left">
   <span style="font-size: 20px; font-weight: bold;"><strong>Connect with me:</strong></span>
